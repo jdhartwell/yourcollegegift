@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "123456",
+    "Name": "Alabama Crimson Tide Hoodie",
+    "Price": 59.99,
+    "ImageURL": "https://via.placeholder.com/800x800?text=Fanatics+Product",
+    "ClickURL": "https://www.fanatics.com/?cur=USD&utm_source=impact&utm_medium=affiliate",
+    "Brand": "Fanatics",
+    "Description": "Officially licensed collegiate hoodie perfect for game day.",
+    "Category": "Apparel",
+    "Currency": "USD"
+  },
+  {
+    "Id": "789012",
+    "Name": "Colorado Buffaloes Sideline Cap",
+    "Price": 34.99,
+    "ImageURL": "https://via.placeholder.com/800x800?text=Fanatics+Product",
+    "ClickURL": "https://www.fanatics.com/?cur=USD&utm_source=impact&utm_medium=affiliate",
+    "Brand": "Fanatics",
+    "Description": "Classic adjustable cap with team logo.",
+    "Category": "Hats",
+    "Currency": "USD"
+  }
+]
